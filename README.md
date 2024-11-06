@@ -6,7 +6,7 @@ Este repositório contém exemplos práticos em Java, organizados por temas para
 
 ## 📂 Estrutura de Pastas e Arquivos
 
-A pasta **Lógica de Programação** inclui os seguintes arquivos:
+A pasta **Base e Anotações** inclui os seguintes arquivos:
 
 - **LoopInfinito.java**: Exemplo de loop infinito em Java, demonstrando a estrutura de repetição sem condição de parada.
   
