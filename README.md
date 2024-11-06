@@ -40,4 +40,4 @@ Para executar os exemplos deste repositório, você precisa:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/eltobrgs/Aprendizado-JAVA.git
+   git clone https://github.com/eltobrgs/learning-algorithms-in-JAVA.git
