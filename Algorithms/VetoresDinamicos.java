@@ -21,7 +21,7 @@ import java.util.ArrayList; // Importa a classe ArrayList do pacote java.util pa
  * - Primeiro, criamos um array de Strings e iteramos sobre ele para imprimir seus elementos.
  * - Em seguida, criamos um ArrayList de Strings, adicionamos elementos, removemos um elemento, e utilizamos vários métodos do ArrayList para manipulação e acesso aos elementos.
  */
-public class VetoresManipulaveis{
+public class VetoresDinamicos {
 
     public static void main(String[] args) {
         // Criação de um array de Strings
