@@ -12,7 +12,9 @@ public class HomeController {
     }
     
     @GetMapping("/")  // Mapeia a rota raiz
-    public String redirectToHome() {
+    public String redirectToHome() { //modelmap
         return "redirect:/home";  // Redireciona para a página "home"
     }
 }
+
+//Controllers: Lidam com as solicitações dos clientes e fornecem respostas 
